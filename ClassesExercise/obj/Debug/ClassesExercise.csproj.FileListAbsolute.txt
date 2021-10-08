@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\bin\Debug\ClassesExercise.exe
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\bin\Debug\ClassesExercise.pdb
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\obj\Debug\ClassesExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\obj\Debug\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\obj\Debug\ClassesExercise.exe
+C:\Users\alexr\Desktop\Repos\ClassesExercise\ClassesExercise\obj\Debug\ClassesExercise.pdb
